@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Searching List Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React Searching List project that allows you to search images from Unsplash API.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository to your local machine.
+
+2. Install the necessary dependencies by running the following command in the terminal: "npm install".
+
+3. Start the development server by running the following command in the terminal: "npm start".
+
+4. Open your web browser and navigate to "http://localhost:3000".
 
 ## Available Scripts
 
